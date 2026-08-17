@@ -116,16 +116,4 @@ Recommendations based on books users have rated or interacted with.
 
 ---
 
-## 🗄️ Database Schema
-
-Core entities:
-
-```text
-Users
-Books
-Reviews
-Comments
-Groups
-Group Members
-Group Posts
-Reports
+ 
